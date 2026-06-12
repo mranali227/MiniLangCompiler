@@ -1,0 +1,10 @@
+INT x = 5;
+INT y = 10;
+
+IF (x < y) {
+    PRINT(x);
+} ELSE {
+    PRINT(y);
+}
+
+END
