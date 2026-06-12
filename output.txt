@@ -1,0 +1,10 @@
+x = 5
+y = 10
+IF x < y GOTO L1
+GOTO L2
+L1:
+PRINT x
+GOTO L3
+L2:
+PRINT y
+L3:
